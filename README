@@ -1,0 +1,6 @@
+Computational geometry tasks
+
+ * essa --- realization of ESSA (Exact Sign of Sum Algorythm) for robust "Left Turn" 
+   predicate computation
+ * tree --- persistent red-black tree realization. It is used for point-in-DCEL 
+   localization
